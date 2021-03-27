@@ -1,2 +1,3 @@
-# pixeljump
-Pixel Jump 3D
+# PixelJump
+
+PixelJump on GitHub
